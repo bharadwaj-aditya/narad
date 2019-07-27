@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:jaxrs="http://cxf.apache.org/jaxrs"
+	xsi:schemaLocation="
+	http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/util
+	http://www.springframework.org/schema/util/spring-util-2.0.xsd
+	http://cxf.apache.org/jaxrs
+	http://cxf.apache.org/schemas/jaxrs.xsd">
+	
+	<!--
+	<bean id="fullContactsCollectorBean" class="com.liveinbox.collector.FullContactsCollector">
+		<constructor-arg index="0" value="https://api.fullcontact.com/v2/person.json"/>
+		<constructor-arg index="1" value="d6930bbff7f9ba23"/>
+	</bean>
+	
+	<bean id="piplCollectorBean" class="com.liveinbox.collector.PiplContactsCollector">
+		<constructor-arg index="0" value="http://apis.pipl.com//search/v2/json/"/>
+		<constructor-arg index="1" value="dkewaz9w2s4b7erdaw6p9krd"/>
+	</bean>
+
+		
+	<bean id="collectionManager" class="com.liveinbox.collector.CollectionManager">
+		<constructor-arg index="0">
+  			<map>
+  				<entry> 
+  					<key><value>FullContacts</value></key>
+  					<ref bean="fullContactsCollectorBean"/>
+  				</entry>
+  			</map>
+  		</constructor-arg>
+  		<constructor-arg index="1" value="300000"/>
+  		<constructor-arg index="2" value="300000"/>
+	</bean>
+	-->
+ 
+</beans>

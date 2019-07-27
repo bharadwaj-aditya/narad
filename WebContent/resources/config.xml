@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+   <properties>
+	<comment>From Email</comment>
+	<!-- entry key="graphDbUrl">http://localhost:7474/db/narad</entry-->
+	<!--  entry key="graphDbUrl">D:\development\nosql\neo4j\narad_db</entry-->
+	<!--entry key="graphDbUrl">D:\development\nosql\neo4j\narad_olympics_db</entry-->
+	<!-- entry key="graphDbUrl">D:\development\nosql\neo4j\narad_olympics_db2</entry-->
+	<!-- entry key="graphDbUrl">D:\development\nosql\neo4j\twitter_db</entry-->
+	<!-- entry key="neo4JGraphDbUrl">D:\development\nosql\neo4j\twitter_db</entry-->
+	<!-- entry key="neo4JGraphDbUrl">D:\development\nosql\neo4j\tinker_olympics_db</entry-->
+	<!-- entry key="neo4JGraphDbUrl">D:\development\nosql\neo4j\social_graph_1_db</entry-->
+	<!-- entry key="neo4JGraphDbUrl">D:\development\nosql\neo4j\social_graph_2_db</entry-->
+	<!--entry key="neo4JGraphDbUrl">D:\development\narad\db\livelist_db</entry-->
+	<!-- entry key="neo4JGraphDbUrl">D:\development\narad\db\person_db</entry-->
+	<entry key="neo4JGraphDbUrl">D:\development\narad\db\person_db_common_index2</entry>
+	<entry key="isLocalGraphDb">false</entry>
+   </properties>
